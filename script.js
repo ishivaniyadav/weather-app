@@ -23,6 +23,7 @@ function getWeather() {
 
 function displayWeather(data) {
     const weatherInfo = document.getElementById('weatherInfo');
+    
     const cityNameElement = document.getElementById('cityName');
     const temperatureElement = document.getElementById('temperature');
     const descriptionElement = document.getElementById('description');
