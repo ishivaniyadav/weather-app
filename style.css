@@ -83,7 +83,7 @@ button {
     font-family: 'Poppins', sans-serif;
     border: none;
     border-radius: 30px;
-    background-color: #2002a3;
+    background-color: #f57105;
     color: #f9f9fc;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -91,7 +91,7 @@ button {
 }
 
 button:hover {
-    background-color: #16036d;
+    background-color: #d36207;
     transform: translateY(-2px);
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
 }
